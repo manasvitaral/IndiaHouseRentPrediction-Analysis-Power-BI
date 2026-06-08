@@ -279,7 +279,7 @@ The **India House Rent Prediction Dashboard** transforms raw rental housing data
 
 ---
 
-## Screen Shots
+## Screen Shots of Dashboards
 
 **Dashboard 1:**
 
