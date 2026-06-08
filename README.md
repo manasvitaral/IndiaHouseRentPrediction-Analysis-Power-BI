@@ -276,3 +276,15 @@ This dashboard can help:
 ## 📌 Conclusion
 
 The **India House Rent Prediction Dashboard** transforms raw rental housing data into actionable insights through interactive visualizations and data-driven analysis. By examining rental trends across cities, property sizes, and furnishing categories, the dashboard supports informed decision-making for tenants, landlords, investors, and real-estate professionals while providing a foundation for future rent prediction models.
+
+---
+
+## Screen Shots
+
+**Dashboard 1:**
+
+<img width="768" height="433" alt="image" src="https://github.com/user-attachments/assets/a1ecf1be-faec-4451-8115-0df6b9508572" />
+
+**Dashboard 2:**
+
+<img width="769" height="433" alt="image" src="https://github.com/user-attachments/assets/5fb0ab58-6232-4576-ab5e-adffb6232425" />
